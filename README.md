@@ -1,2 +1,2 @@
 # odin-recipes
-This is a basic recipe website with a 'brutalist web design', because I've only learnt HTML (so far). I created an index page with links to other pages. The pages show different recipes, with their correspondent picture, list of ingredients and steps required to make the dish.
+This is a basic recipe website with a 'brutalist web design', because I've only learnt HTML (so far). I created an index page with links to other pages. The pages show different recipes, with their correspondent picture, list of ingredients and steps required to make the dish. First I created my index page and set up the boilerplate, then I used different HTML elements such as: headings, paragraphs, links, images and attributes, unordered lists and ordered lists.
