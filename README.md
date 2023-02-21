@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic recipe website with a 'brutalist web design', because I've only learnt HTML (so far). I created an index page with links to other pages. The pages show different recipes, with their correspondent picture, list of ingredients and steps required to make the dish.
